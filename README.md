@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning |**Engineering**|
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Html,CSS,C++,Python,Arduino
-- 📫 How to reach me: shiragavisheetal@gmail.com
+- 💬 Ask me about **Html,CSS,C++,Python,Arduino**
+- 📫 How to reach me: ***shiragavisheetal@gmail.com***
 - 😄 Pronouns: ...
-- ⚡ Fun fact: coffee,Sports
+- ⚡ Fun fact: **Coffe,Sports**
 -->
